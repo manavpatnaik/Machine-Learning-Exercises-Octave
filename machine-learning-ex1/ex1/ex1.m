@@ -1,7 +1,7 @@
 %% Machine Learning Online Class - Exercise 1: Linear Regression
 
 %  Instructions
-%  ------------
+%  -----------
 %
 %  This file contains code that helps you get started on the
 %  linear exercise. You will need to complete the following functions
